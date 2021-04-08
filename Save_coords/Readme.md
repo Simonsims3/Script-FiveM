@@ -1,6 +1,6 @@
 # Save Coords
 
-This is a resource I use, when I need mulptiples coords for a script.
+This is a resource I use, when I need multiple coords for a script.
 
 ## Usage
 
