@@ -7,7 +7,8 @@ This is a resource I use, when I need mulptiples coords for a script.
 1. Start the resource `start Save_coords`.
 2. Type the command `/savecoords`.
 3. Press 'E' to take the coords.
-4. Find all the saved coords in the file in ./Coords/xx-xx-xx.txt .
+4. Once again type `/savecoords` to save the file.
+5. Find all the saved coords in the file in ./Save_coords/Coords/xx-xx-xx.txt .
 
 ## Disclaimer
 
