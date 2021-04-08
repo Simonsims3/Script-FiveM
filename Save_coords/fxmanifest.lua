@@ -10,13 +10,7 @@ version '1.0'
 
 
 
-client_scripts {
-    'client/coords_client.lua', 
-    'other/utils.lua'
-}
+client_script 'client/coords_client.lua'
 
 
-server_scripts {
-    'server/coords_server.lua',
-    'other/utils.lua'
-}
+server_script 'server/coords_server.lua'
