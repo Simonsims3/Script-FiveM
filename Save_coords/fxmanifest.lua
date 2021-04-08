@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 
 
-games      { 'gta5' }
+games { 'gta5' }
 
 
 author '@SimoN#6253'
