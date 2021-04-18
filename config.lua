@@ -1,3 +1,6 @@
+-- Small config file with info like weapon name -> weapon or vehicles
+
+
 config = {}
 
 config.weapons = {
