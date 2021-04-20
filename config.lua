@@ -1,4 +1,4 @@
--- Small config file with info like weapon name -> weapon or vehicles
+-- Small config file with info like weapon name -> weapon, vehicles, and peds list
 
 
 config = {}
